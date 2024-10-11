@@ -8,3 +8,25 @@ img {
     max-height: 100%;
     object-fit: contain;
 }
+
+.login-page{
+    display: flex;
+
+}
+
+.form-contents{
+    flex: 1;
+    background-color: lightgray;
+    
+}
+
+.left-container{
+    border: blue 2px solid;
+    width: min-content;
+}
+
+.right-container{
+    border: green 2px solid;
+    width: min-content;
+}    
+
