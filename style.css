@@ -11,22 +11,13 @@ img {
 
 .login-page{
     display: flex;
-
 }
 
-.form-contents{
-    flex: 1;
-    background-color: lightgray;
-    
-}
+form {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+  }
 
-.left-container{
-    border: blue 2px solid;
-    width: min-content;
-}
-
-.right-container{
-    border: green 2px solid;
-    width: min-content;
-}    
+ 
 
